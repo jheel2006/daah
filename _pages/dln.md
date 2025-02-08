@@ -73,14 +73,11 @@ Digital literacy isn’t a static skill—it’s an evolving practice of **learn
 
 > _I will document my work by committing these changes on GitHub, using clear commit messages._  
 
-### **GitHub Commit Messages Example:**  
-- `Updated tools & platforms to reflect CS/IM perspective`  
-- `Rewrote sections to be more conversational and natural`  
-- `Formatted for Markdown readability`  
+### **GitHub Commits:**  
 
-Additionally, I’ll include a **screenshot** of my GitHub commit history:  
+I’ll include a **screenshot** of soem of my GitHub commit edits:  
 
-![Screenshot of GitHub Commit History]("/assets/images/github_ss/png")  
+![Screenshot of GitHub Commit History](https://ibb.co/8g7v52Wr)  
 📌 _Caption: A part of GitHub commit history showing edits._  
 
 ---
