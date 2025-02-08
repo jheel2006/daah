@@ -3,7 +3,7 @@ permalink: /dln/
 title: "Digital Literacy Narrative"
 ---
 
-# **Reflections on Digital Literacy: A Computer Science & Interactive Media Student’s Perspective**  
+# **Reflections on Digital Literacy: A CS + IM Student’s Perspective**  
 
 As a **Computer Science and Interactive Media** major, my experience with digital literacy extends beyond basic content creation and research. I interact with digital tools daily—not just as a user but as a designer, developer, and problem solver. Digital literacy, for me, is about understanding **how digital systems function**, critically evaluating their impact, and creatively using them to build interactive experiences. This semester, I want to refine my ability to **analyze, manipulate, and create digital content** while deepening my understanding of **AI, data visualization, and computational media**.  
 
