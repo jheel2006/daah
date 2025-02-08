@@ -3,81 +3,84 @@ permalink: /dln/
 title: "Digital Literacy Narrative"
 ---
 
-# **Reflections on Digital Literacy: A CS + IM Student’s Perspective**  
+**.  
 
-As a **Computer Science and Interactive Media** major, my experience with digital literacy extends beyond basic content creation and research. I interact with digital tools daily—not just as a user but as a designer, developer, and problem solver. Digital literacy, for me, is about understanding **how digital systems function**, critically evaluating their impact, and creatively using them to build interactive experiences. This semester, I want to refine my ability to **analyze, manipulate, and create digital content** while deepening my understanding of **AI, data visualization, and computational media**.  
+As a **Computer Science and Interactive Media** major, digital literacy is central to how I work, learn, and create. For me, it’s more than just understanding technology—it’s about **building, analyzing, and designing interactive experiences** that blend technical depth with creativity. Every day, I engage with **programming, UI/UX design, and digital research**, constantly refining my ability to navigate and shape digital environments.  
+
+This semester, I want to push my **computational thinking** further—exploring **AI, real-time graphics, data visualization, and ethical AI**. I also aim to sharpen my ability to manage and communicate information effectively, whether through **web development, interactive media, or creative coding**.  
 
 ## **Digital Literacy in Content Creation and Social Interaction**  
 
-My approach to content creation often involves **programming, digital design, and interactive storytelling**. Instead of blogging platforms like Medium, I use:  
+Most of my digital content isn’t traditional writing or blogging—it’s **interactive experiences, UI/UX prototypes, and web-based applications**. Instead of Medium or Substack, my workflow involves:  
 
-- **GitHub Pages** – for hosting interactive media projects and documentation.  
-- **p5.js and Three.js** – for creative coding and generative visuals.  
-- **Unity and Unreal Engine** – for immersive experiences and game development.  
-- **Figma and Adobe XD** – for UI/UX prototyping and interactive web design.  
+- **React.js & GitHub Pages** – For building and deploying interactive web projects.  
+- **p5.js & Processing** – For creative coding and generative art.  
+- **Arduino** – For connecting hardware with interactive systems.  
+- **Figma & Procreate** – For UI/UX design and digital illustration.  
 
-Collaboration is equally important. While tools like **Slack and Trello** are popular for teamwork, I prefer:  
+Collaboration is just as essential as creation. While some students rely on Slack and Trello, I mostly use:  
 
-- **GitHub Projects** – for version control, project tracking, and team contributions.  
-- **Discord** – for discussions in interactive media and game dev communities.  
-- **Notion** – for organizing documentation and brainstorming design workflows.  
+- **GitHub Projects** – For version control, tracking issues, and collaborating on codebases.  
+- **Discord** – For engaging with developer and design communities.  
+- **Notion** – For structuring project ideas, documentation, and brainstorming.  
 
-A crucial part of my digital literacy is understanding how platforms shape **interaction and engagement**. From designing user-friendly interfaces to **considering accessibility** in interactive systems, I aim to refine my skills in **creating more inclusive and intuitive digital experiences**.  
+A big part of my learning has been understanding **how design and accessibility shape user interaction**. Whether it’s improving UI/UX in a web app or optimizing an interactive project, I’m always thinking about **how people experience digital spaces**.  
 
 ## **Digital Research and Data Management**  
 
-As a CS student, data management goes beyond simple citation tracking. Instead of **Zotero**, I use:  
+Digital literacy isn’t just about using tools—it’s about organizing and making sense of information efficiently. Instead of traditional research managers like Zotero, I work with:  
 
-- **Jupyter Notebooks & Colab** – for experimenting with data analysis and machine learning.  
-- **SQL & Firebase** – for handling structured and real-time data.  
-- **APIs & Web Scraping** – for retrieving data from external sources.  
+- **MySQL & Firebase** – For managing structured and real-time databases.  
+- **Jupyter Notebooks & Colab** – For prototyping AI models and data analysis.  
+- **APIs & Web Scraping** – For gathering and processing data dynamically.  
 
-For **data visualization and analysis**, I work with:  
+For data visualization and analysis, I rely on:  
 
-- **Python (Matplotlib, Seaborn, Plotly)** – for generating insights from datasets.  
-- **TensorFlow & OpenCV** – for AI-driven image and pattern recognition.  
-- **D3.js** – for dynamic, web-based visualizations.  
+- **Python (Matplotlib, Seaborn, Plotly)** – To generate insights from datasets.  
+- **TensorFlow & OpenCV** – To explore AI-driven image recognition and machine learning.  
+- **D3.js** – To create interactive, web-based visualizations.  
 
-These tools allow me to explore the **intersection of code, creativity, and computation**—helping me understand **how digital systems process and present information**.  
+These tools help me explore the **intersection of computation, design, and interactivity**, whether in an **AI project, interactive website, or digital art experiment**.  
 
 ## **Digital Humanities & Computational Thinking**  
 
-What excites me most about digital literacy is how it connects **technology with the arts and humanities**. The **digital humanities** field offers a unique perspective—bridging technical and creative disciplines through **AI-generated art, interactive storytelling, and media analysis**.  
+One of the most exciting aspects of digital literacy is how it connects **technology, design, and human expression**. Digital humanities is a space where **coding meets creativity**, whether through **AI-generated art, interactive storytelling, or immersive media**.  
 
 For example:  
-- AI tools like **Runway ML and Stable Diffusion** are transforming creative work by generating art based on textual input.  
-- **Generative design** in p5.js and Processing enables dynamic, algorithm-driven visual compositions.  
-- **Narrative AI systems** can generate dialogue for interactive experiences, impacting storytelling and game design.  
+- **Runway ML & Stable Diffusion** – Are transforming how we generate digital art.  
+- **Generative algorithms** in p5.js and Processing – Enable **new forms of creative expression**.  
+- **Narrative AI systems** – Are pushing the boundaries of interactive storytelling and game development.  
 
-This semester, I want to explore how **computational thinking**, as described by Berry and Fagerjord, can enhance problem-solving in interactive media. This involves:  
-- Understanding how **machine learning models** can inform creative processes.  
-- Applying **algorithmic approaches** to generative storytelling and AI-driven experiences.  
-- Critically reflecting on how **data and AI shape digital culture** ([AI in Museums](https://www.transcript-publishing.com/978-3-8376-6710-3/ai-in-museums/?number=978-3-8394-6710-7)).  
+This semester, I want to dive deeper into **computational thinking**, as described by Berry and Fagerjord—not just as a technical skill but as a **way of problem-solving across disciplines**. Some of my key focus areas include:  
+
+- How **machine learning** can inform creative workflows.  
+- How **algorithmic approaches** can enhance generative design and storytelling.  
+- How **data and AI** shape digital culture ([AI in Museums](https://www.transcript-publishing.com/978-3-8376-6710-3/ai-in-museums/?number=978-3-8394-6710-7)).  
 
 ## **Critical Reflections and Future Growth**  
 
-While I have a strong foundation in **coding, design, and digital media**, there are areas I want to improve:  
+I feel confident in my ability to **code, design, and analyze data**, but I know there are areas where I can grow. Some questions I’m exploring:  
 
-- **Ethical AI & Bias** – How can we create AI systems that are **more ethical, unbiased, and transparent**?  
-- **Real-time Graphics & XR** – How can I push the boundaries of **interactive media through AR/VR and real-time rendering**?  
-- **Generative AI in Creativity** – How can AI be used **responsibly and creatively** in art, design, and storytelling?  
+- **Ethical AI & Bias** – How do we make AI systems **fair, transparent, and responsible**?  
+- **Real-time Graphics & XR** – How can I push interactive media through **AR/VR and real-time rendering**?  
+- **Generative AI & Creativity** – How do we balance **AI-assisted creativity with human expression**?  
 
 ## **Conclusion**  
 
-Digital literacy is an evolving practice—one that requires constant **learning, experimentation, and reflection**. As I navigate this semester, I hope to expand my understanding of **AI, computational media, and data visualization**, while refining my ability to **think critically about digital systems**. The liberal arts and interdisciplinary collaboration provide the perfect space to **merge technology, creativity, and ethics**—an approach that will continue to shape my academic and professional journey.  
+Digital literacy isn’t a static skill—it’s an evolving practice of **learning, experimenting, and reflecting**. As I continue my studies, I want to deepen my understanding of **AI, computational media, and UI/UX design**, while developing a **critical perspective on technology**. The **interdisciplinary nature** of my work in **Computer Science and Interactive Media** provides a unique space to explore how **technology, creativity, and ethics intersect**—something I hope to refine further this semester.  
 
 ---
 
 ## **Next Steps: Documenting My Changes in GitHub**  
 
-> _I will document my work by committing these changes on GitHub, using meaningful commit messages._  
+> _I will document my work by committing these changes on GitHub, using clear commit messages._  
 
 ### **GitHub Commit Messages Example:**  
-- `Updated content creation tools to reflect CS/Interactive Media perspective`  
-- `Replaced literary analysis with AI-generated art & storytelling examples`  
-- `Added markdown formatting for readability`  
+- `Updated tools & platforms to reflect CS/IM perspective`  
+- `Rewrote sections to be more conversational and natural`  
+- `Formatted for Markdown readability`  
 
-Additionally, I will include a **screenshot** of my GitHub changes:  
+Additionally, I’ll include a **screenshot** of my GitHub commit history:  
 
 ![Screenshot of GitHub Commit History](your-screenshot-link.png)  
 📌 _Caption: GitHub commit history showing edits made to reflect my digital literacy perspective._  
@@ -85,5 +88,6 @@ Additionally, I will include a **screenshot** of my GitHub changes:
 ---
 
 ### **Final Thoughts**  
-This markdown version of my reflection is designed for **clarity, readability, and organization**. If you need any tweaks—such as more embedded links, additional code snippets, or formatting improvements—let me know! 🚀
+
+This reflection is structured to feel **natural and personal**, while still being professional and Markdown-friendly. If you want me to tweak anything further—like adding **more links, visuals, or specific examples from your projects**—let me know! 🚀  
 
