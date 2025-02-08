@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1"
-date: 2025-01-29
+date: 2025-02-08
 categories: 
   - assignment
 tags:
