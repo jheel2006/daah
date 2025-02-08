@@ -80,8 +80,8 @@ Digital literacy isn’t a static skill—it’s an evolving practice of **learn
 
 Additionally, I’ll include a **screenshot** of my GitHub commit history:  
 
-![Screenshot of GitHub Commit History](your-screenshot-link.png)  
-📌 _Caption: GitHub commit history showing edits made to reflect my digital literacy perspective._  
+![Screenshot of GitHub Commit History](/assets/images/github_ss/png)  
+📌 _Caption: A part of GitHub commit history showing edits._  
 
 ---
 
