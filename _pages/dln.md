@@ -65,13 +65,13 @@ I feel confident in my ability to **code, design, and analyze data**, but I know
 
 ## **Conclusion**  
 
-Digital literacy isn’t a static skill—it’s an evolving practice of **learning, experimenting, and reflecting**. As I continue my studies, I want to deepen my understanding of **AI, computational media, and UI/UX design**, while developing a **critical perspective on technology**. The **interdisciplinary nature** of my work in **Computer Science and Interactive Media** provides a unique space to explore how **technology, creativity, and ethics intersect**—something I hope to refine further this semester.  
+Digital literacy isn’t a static skill—it’s an evolving practice of **learning, experimenting, and reflecting**. As I continue my studies, I want to deepen my understanding of **AI, computational media, and UI/UX design**, while developing a **critical perspective on technology**. The **interdisciplinary nature** of my work in **Computer Science and Interactive Media** provides a space to explore how **technology, creativity, and ethics intersect**—something I hope to refine further this semester.  
 
 ---
 
 ## **Next Steps: Documenting My Changes in GitHub**  
 
-> _I will document my work by committing these changes on GitHub, using clear commit messages._  
+> _I documented my work by committing these changes on GitHub, using clear commit messages.  
 
 ### **GitHub Commits:**  
 
