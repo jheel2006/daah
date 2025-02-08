@@ -3,8 +3,6 @@ permalink: /dln/
 title: "Digital Literacy Narrative"
 ---
 
-**.  
-
 As a **Computer Science and Interactive Media** major, digital literacy is central to how I work, learn, and create. For me, it’s more than just understanding technology—it’s about **building, analyzing, and designing interactive experiences** that blend technical depth with creativity. Every day, I engage with **programming, UI/UX design, and digital research**, constantly refining my ability to navigate and shape digital environments.  
 
 This semester, I want to push my **computational thinking** further—exploring **AI, real-time graphics, data visualization, and ethical AI**. I also aim to sharpen my ability to manage and communicate information effectively, whether through **web development, interactive media, or creative coding**.  
