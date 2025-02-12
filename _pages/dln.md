@@ -78,11 +78,5 @@ Digital literacy isn’t a static skill—it’s an evolving practice of **learn
 I’ll include a **screenshot** of some of my GitHub commit edits:  
 
 ![Screenshot of GitHub Commit History](https://github.com/jheel2006/daah/blob/master/assets/images/github_ss.png)  
-📌 _Caption: A part of GitHub commit history showing edits._  
-
----
-
-### **Final Thoughts**  
-
-This reflection is structured to feel **natural and personal**, while still being professional and Markdown-friendly. If you want me to tweak anything further—like adding **more links, visuals, or specific examples from your projects**—let me know! 🚀  
+📌 Caption: A part of GitHub commit history showing edits._  
 
