@@ -71,7 +71,7 @@ Digital literacy isn’t a static skill—it’s an evolving practice of **learn
 
 ## **Next Steps: Documenting My Changes in GitHub**  
 
-> _I documented my work by committing these changes on GitHub, using clear commit messages.  
+> I documented my work by committing these changes on GitHub, using clear commit messages.  
 
 ### **GitHub Commits:**  
 
