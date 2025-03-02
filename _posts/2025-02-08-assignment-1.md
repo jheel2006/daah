@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1"
-date: 2025-02-08
+date: 2025-03-02
 categories: 
   - Assignment
 tags:
@@ -71,7 +71,7 @@ In all texts, **character names** rank among the **most frequent words** once co
 ## Fanfiction Language Differences
 
 The fanfiction, _And I Will Find You_, differs significantly from the original Harry Potter books in both **focus and language**:
-![Posit Graph](/daah2025/assets/images/graph_posit.jpg)
+![Posit Graph](/daah/assets/images/graph_posit.jpg)
 
 - The story centers **primarily** on **Harry and Hermione**, with **other major characters not making an appearance**.
 - Notably, **Ron is never mentioned** at all in the fanfic, an omission that aligns with **a trend in certain fan communities** to sideline Ron to favor a Harry/Hermione pairing.
