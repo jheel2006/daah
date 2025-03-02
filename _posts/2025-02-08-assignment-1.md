@@ -134,7 +134,7 @@ Similarly, **Rockwell and Sinclair (2017)** explore how **big data** impacts **t
 
 Ultimately, Rowling’s writing grew more intricate over time, both in **sentence complexity** and **thematic depth**, changing from an **adventurous, light-hearted story** to a **serious, emotionally charged epic**. The fanfiction, in contrast, took a more **grounded and personal approach**, stripping away the **magical stakes** in favor of **character relationships**. This comparison helped us see how **digital analysis** can reveal **patterns in storytelling**, showing both the **intentional shifts** made by an author over time and how readers **engage with and reinterpret** a story in their own creative ways.
 
-### References:
+## References:
 
 - Berry, D. M. (2019). _What are the Digital Humanities?_ British Academy, 13 February.  
 - Rockwell, G., & Sinclair, S. (2017). _False Positives: Opportunities and Dangers in Big-Data Text Analysis_.  
