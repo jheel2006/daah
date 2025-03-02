@@ -136,7 +136,10 @@ Ultimately, Rowling’s writing grew more intricate over time, both in **sentenc
 
 ## References:
 
-- Berry, D. M. (2019). _What are the Digital Humanities?_ British Academy, 13 February.  
-- Rockwell, G., & Sinclair, S. (2017). _False Positives: Opportunities and Dangers in Big-Data Text Analysis_.  
-- Punjabi, H. A. (n.d.). _Harry Potter Books & Fanfiction - An Analysis of Words_. Retrieved from [Haider Ali Punjabi's Blog](https://blog.haideralipunjabi.com/posts/harry-potter-books-fanfiction-an-analysis-of-words).  
-- WordCounter. (2015, November 23). _How Many Words Are There in the Harry Potter Book Series?_. Retrieved from [WordCounter Blog](https://wordcounter.net/blog/2015/11/23/10922_how-many-words-harry-potter.html).  
+- Berry, D. M. (2019). *What are the Digital Humanities?* British Academy, 13 February.  
+- Rockwell, G., & Sinclair, S. (2017). *False Positives: Opportunities and Dangers in Big-Data Text Analysis*.  
+- Punjabi, H. A. (n.d.). *Harry Potter Books & Fanfiction - An Analysis of Words*. Retrieved from [Haider Ali Punjabi's Blog](https://blog.haideralipunjabi.com/posts/harry-potter-books-fanfiction-an-analysis-of-words).  
+- WordCounter. (2015, November 23). *How Many Words Are There in the Harry Potter Book Series?*. Retrieved from [WordCounter Blog](https://wordcounter.net/blog/2015/11/23/10922_how-many-words-harry-potter.html).  
+- Rowling, J. K. (1997). *Harry Potter and the Sorcerer’s Stone*. Bloomsbury (UK), Scholastic (US).  
+- Rowling, J. K. (2007). *Harry Potter and the Deathly Hallows*. Bloomsbury (UK), Scholastic (US).  
+- Lyingleia. (n.d.). *And I Will Find You*. Retrieved from [FanFiction.net / Archive of Our Own (insert link if available)].  
