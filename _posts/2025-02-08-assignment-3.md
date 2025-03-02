@@ -2,7 +2,7 @@
 title: "Assignment 3"
 date: 2025-02-08
 categories: 
-  - assignment
+  - Assignment
 tags:
   - 
   - 
