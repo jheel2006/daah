@@ -136,5 +136,7 @@ Ultimately, Rowling’s writing grew more intricate over time, both in **sentenc
 
 ### References:
 
-- Berry, D. M. (2019). _What are the Digital Humanities?_ British Academy, 13 February.
-- Rockwell, G., & Sinclair, S. (2017). _False Positives: Opportunities and Dangers in Big-Data Text Analysis_.
+- Berry, D. M. (2019). _What are the Digital Humanities?_ British Academy, 13 February.  
+- Rockwell, G., & Sinclair, S. (2017). _False Positives: Opportunities and Dangers in Big-Data Text Analysis_.  
+- Punjabi, H. A. (n.d.). _Harry Potter Books & Fanfiction - An Analysis of Words_. Retrieved from [Haider Ali Punjabi's Blog](https://blog.haideralipunjabi.com/posts/harry-potter-books-fanfiction-an-analysis-of-words).  
+- WordCounter. (2015, November 23). _How Many Words Are There in the Harry Potter Book Series?_. Retrieved from [WordCounter Blog](https://wordcounter.net/blog/2015/11/23/10922_how-many-words-harry-potter.html#:~:text=How%20many%20words%20are%20in,Stones%3F%20There%20are%2076%2C944%20words).  
