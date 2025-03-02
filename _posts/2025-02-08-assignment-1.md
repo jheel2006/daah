@@ -4,8 +4,9 @@ date: 2025-02-08
 categories: 
   - assignment
 tags:
-  - 
-  - 
+  - Corpus
+  - Harry Potter
+  - Fan fiction
 ---
 
 # Analyzing Harry Potter and Fanfiction
@@ -50,17 +51,27 @@ From our analysis, we discovered some **really interesting shifts** in language 
 ### Character Mentions
 
 In all texts, **character names** rank among the **most frequent words** once common stopwords are removed:
+
 <!-- add iframe: word cloud of all three texts -->
+<iframe style='width: 566px; height: 399px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-054dae2435b342f9cff0a4d0ebd5e7aa&whiteList=&corpus=ffdfbbcfa7475244b815befa1f39c66d'></iframe>
 <!-- screenshots from posit cloud about top words from every text -->
+
 - Naturally, **“Harry”** dominates both the first and last Harry Potter books, reflecting his role as the protagonist.
 - However, character mentions also reveal how relationships evolve over time. In _Sorcerer’s Stone_, **Hagrid** is referenced **more frequently** than **Hermione**, as the trio’s friendship had not yet fully formed.
 - By _Deathly Hallows_, **Hermione** is mentioned **almost as often** as **Ron**, reflecting their **deepened bond** and equal importance in the final book.
 - On the other hand, **Voldemort**, who is **rarely named** in the early books due to the fear surrounding him, becomes a **recurring presence** in the later books, as the characters **are no longer afraid** to speak his name.
 - The word **"death"** is also notably **more common** in _Deathly Hallows_, signifying the **heavier themes of loss and sacrifice** that dominate the final installment.
 
+  ![Frequency Book 1](/daah2025/assets/images/text1.jpg)
+
+  ![Frequency Book 7](/daah2025/assets/images/text2.jpg)
+
+  ![Frequency Fan Fiction](/daah2025/assets/images/text3.jpg)
+
 ## Fanfiction Language Differences
 
 The fanfiction, _And I Will Find You_, differs significantly from the original Harry Potter books in both **focus and language**:
+![Posit Graph](/daah2025/assets/images/graph_posit.jpg)
 
 - The story centers **primarily** on **Harry and Hermione**, with **other major characters not making an appearance**.
 - Notably, **Ron is never mentioned** at all in the fanfic, an omission that aligns with **a trend in certain fan communities** to sideline Ron to favor a Harry/Hermione pairing.
@@ -70,15 +81,14 @@ The fanfiction, _And I Will Find You_, differs significantly from the original H
 
 These differences offer an interesting contrast to the **canon books**, showing us how **fanfic authors** can reinterpret characters and themes within entirely new frameworks. In summary, **Rowling’s word frequencies** shift from the **innocent and magical** in **Book 1** to **darker and battle-driven** in **Book 7**, whereas the **fanfic’s frequent words** center on **everyday life and romance**, showing a completely different focus.
 
-## Tonal Shift and Audience  
+## Tonal Shift and Audience
 
-- The tonal shift also reflects audience – **Rowling wrote Book 1 for children and Book 7 for teenagers** who had grown up with the series, hence the content got darker.  
-- The fanfic, meanwhile, is written **by and for fans (often young adults themselves)** indulging in an alternate scenario. The **emotional tone** of the fanfic is more aligned with **teen romance or young adult contemporary fiction**.  
-- There is angst (as any love story might have), but **not the pervasive fear or suspense** found in Rowling’s later books.  
-- One could say the **fanfic’s emotional stakes are lower** – no one’s life is in danger; it’s the stakes of **will-they-won’t-they** in love.  
+- The tonal shift also reflects audience – **Rowling wrote Book 1 for children and Book 7 for teenagers** who had grown up with the series, hence the content got darker.
+- The fanfic, meanwhile, is written **by and for fans (often young adults themselves)** indulging in an alternate scenario. The **emotional tone** of the fanfic is more aligned with **teen romance or young adult contemporary fiction**.
+- There is angst (as any love story might have), but **not the pervasive fear or suspense** found in Rowling’s later books.
+- One could say the **fanfic’s emotional stakes are lower** – no one’s life is in danger; it’s the stakes of **will-they-won’t-they** in love.
 
-This creates a **fundamentally different reading experience**: *Philosopher’s Stone* leaves readers with **a sense of magical joy** and the moral that **love conquers evil** in a simple way; *Deathly Hallows* leaves readers with **a hard-earned catharsis**, having faced darkness and death; the **fanfic likely leaves readers with a sweet or heartwarming feeling** as it resolves the romantic tension. **Each accomplishes a distinct tone** to serve its story’s themes.  
-
+This creates a **fundamentally different reading experience**: _Philosopher’s Stone_ leaves readers with **a sense of magical joy** and the moral that **love conquers evil** in a simple way; _Deathly Hallows_ leaves readers with **a hard-earned catharsis**, having faced darkness and death; the **fanfic likely leaves readers with a sweet or heartwarming feeling** as it resolves the romantic tension. **Each accomplishes a distinct tone** to serve its story’s themes.
 
 ## Structural Differences
 
@@ -92,17 +102,19 @@ The growth in length allowed **Rowling to incorporate more subplots, character b
 - The **fanfiction** is **much shorter**, around **~7k words total**, divided into **a few brief chapters**, making it a **short novella or long one-shot**.
 - The **pacing** of the fanfic is **tight and focused** on the central pairing, rather than the **expansive, journey-like pacing** of the novels.
 
-Rowling’s **Book 1** moves through **an entire year at Hogwarts** (with seasonal structure), and **Book 7**, while mostly continuous in time, still covers **many months and a wide geographic range**. The **fanfic** compresses the narrative into **a few meetings and interactions in a single setting (NYU campus)** over, perhaps, weeks. Thus, structurally the **fanfic is simpler and more linear**, without the **breadth of events** seen in the books.  
+Rowling’s **Book 1** moves through **an entire year at Hogwarts** (with seasonal structure), and **Book 7**, while mostly continuous in time, still covers **many months and a wide geographic range**. The **fanfic** compresses the narrative into **a few meetings and interactions in a single setting (NYU campus)** over, perhaps, weeks. Thus, structurally the **fanfic is simpler and more linear**, without the **breadth of events** seen in the books.
 
 ## Other Computational Insights
 
 Our analysis of the **Collocates and TermBerry graphs** (generated by **Voyant Tools**) gave us **interesting insights** into how **character dynamics and themes evolved** across the Harry Potter series and how they were **reinterpreted in fanfiction**.
 
 <!--  add iframe: Collocates and TermBerry graphs-->
+
+<iframe style='width: 566px; height: 399px;' src='https://voyant-tools.org/tool/CollocatesGraph/?view=CollocatesGraph&stopList=keywords-054dae2435b342f9cff0a4d0ebd5e7aa&query=harry&query=ron&query=hermione&query=wand&query=dumbledore&query=got&query=hagrid&query=think&query=eyes&query=voldemort&query=looking&query=saw&query=door&query=voice&query=potter&query=professor&context=15&corpus=ffdfbbcfa7475244b815befa1f39c66d'></iframe>
+<iframe style='width: 566px; height: 399px;' src='https://voyant-tools.org/tool/TermsBerry/?view=TermsBerry&stopList=keywords-054dae2435b342f9cff0a4d0ebd5e7aa&corpus=ffdfbbcfa7475244b815befa1f39c66d'></iframe>
 - The **Collocates graph** highlighted **Harry as the most central figure**, with **Ron and Hermione closely connected** but displaying **distinct roles**:
 
-  - Ron was more linked to **action-oriented words**, while Hermione's mentions leaned toward **intellectual contributions**. This distinction is almost exactly like their character development throughout the books.
-
+- Ron was more linked to **action-oriented words**, while Hermione's mentions leaned toward **intellectual contributions**. This distinction is almost exactly like their character development throughout the books.
 
 - The contrast between the books and the fanfiction extended beyond character prominence. Similar to earlier findings, in _Sorcerer’s Stone_, words like **"professor" and "wand"** reinforced the **whimsical and educational nature** of the early series.
 - On the other hand, _Deathly Hallows_ contained **darker themes**, with words like **"death"** becoming more frequent.
@@ -111,9 +123,17 @@ Our analysis of the **Collocates and TermBerry graphs** (generated by **Voyant T
 
 The **shift in tone and language structure** showed us how fan works often adapt original narratives to fit different **genres and themes**.
 
+## References from Class Readings
+
+The field of digital humanities has evolved significantly over the past few decades, incorporating computational methods to enhance traditional humanities research. Berry (2019) emphasizes that digital humanities are not an intrusion into academia but rather a continuation of humanistic inquiry using computational tools. He highlights how technologies such as text analysis, visualization, and machine learning allow researchers to engage with large datasets in ways previously unimaginable. This shift from close reading to distant reading, where scholars can analyze patterns across thousands of texts, aligns well with our project, where we use digital text analysis tools like Voyant to explore character prominence and thematic changes in fan fiction and original texts. By leveraging computational methods, we can uncover insights that traditional literary analysis might overlook, such as shifts in character dynamics and linguistic patterns across different narratives.
+
+Similarly, Rockwell and Sinclair (2017) discuss the implications of big data in text analysis, particularly the risks and opportunities it presents. They highlight how computational methods can introduce false positives—patterns that appear statistically significant but may not hold meaningful interpretative value. This concern is especially relevant to our project, as we analyze large text corpora for trends in character mentions and thematic structures. By using visualization tools and statistical models, we aim to mitigate the risks of misinterpretation and ensure that our findings are grounded in both quantitative and qualitative analysis. Our approach embodies the core principles of digital humanities—blending computational rigor with humanistic inquiry—to produce a nuanced understanding of how characters like Harry, Hermione, and Ron are represented in fan fiction versus the original texts.
 
 ## Conclusion
 
 Ultimately, Rowling’s writing grew more intricate over time, both in **sentence complexity** and **thematic depth**, changing from an **adventurous, light-hearted story** to a **serious, emotionally charged epic**. The fanfiction, in contrast, took a more **grounded and personal approach**, stripping away the **magical stakes** in favor of **character relationships**. This comparison helped us see how **digital analysis** can reveal **patterns in storytelling**, showing both the **intentional shifts** made by an author over time and how readers **engage with and reinterpret** a story in their own creative ways.
 
+### References:
 
+- Berry, D. M. (2019). _What are the Digital Humanities?_ British Academy, 13 February.
+- Rockwell, G., & Sinclair, S. (2017). _False Positives: Opportunities and Dangers in Big-Data Text Analysis_.
