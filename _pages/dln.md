@@ -3,80 +3,26 @@ permalink: /dln/
 title: "Digital Literacy Narrative"
 ---
 
-As a **Computer Science and Interactive Media** major, digital literacy is central to how I work, learn, and create. For me, it’s more than just understanding technology—it’s about **building, analyzing, and designing interactive experiences** that blend technical depth with creativity. Every day, I engage with **programming, UI/UX design, and digital research**, constantly refining my ability to navigate and shape digital environments.  
+### Digital Literacy and the Evolving Role of Technology in Knowledge Creation
 
-This semester, I want to push my **computational thinking** further—exploring **AI, real-time graphics, data visualization, and ethical AI**. I also aim to sharpen my ability to manage and communicate information effectively, whether through **web development, interactive media, or creative coding**.  
+As a Computer Science and Interactive Media major, digital literacy is central to how I work, learn, and create. Initially, I saw digital literacy as merely the ability to navigate online spaces effectively—understanding how to search for information, evaluate sources, and use digital tools productively. However, through our discussions and readings, I now see digital literacy as something far more complex: it is about critically engaging with digital systems, understanding the biases embedded within them, and recognizing the broader implications of digital technologies on knowledge production.
 
-## **Digital Literacy in Content Creation and Social Interaction**  
+One of the key insights I have gained is the importance of questioning the ways digital tools shape our understanding of the world. Johanna Drucker, in *Digital Humanities: An Overview*, emphasizes that digital knowledge production is not neutral; it is shaped by the structures and assumptions embedded in the tools we use (Drucker, ch. 1). This realization has made me more aware of how platforms like search engines, large language models, and digital archives are not just repositories of knowledge but active participants in framing what counts as knowledge in the first place.
 
-Most of my digital content isn’t traditional writing or blogging—it’s **interactive experiences, UI/UX prototypes, and web-based applications**. Instead of Medium or Substack, my workflow involves:  
+For example, when working with AI-driven platforms like ChatGPT, it’s easy to assume that the responses generated are purely factual or objective. However, as we discussed in class, these models are built on massive datasets that contain biases, omissions, and limitations. Drucker’s analysis of the digital humanities reminds us that every digital tool is built on human decisions—decisions about what to include, how to categorize information, and what kinds of interactions the system should allow. This perspective has reshaped how I approach AI-generated content: instead of taking it at face value, I now question the assumptions behind it and consider what voices or perspectives might be missing.
 
-- **React.js & GitHub Pages** – For building and deploying interactive web projects.  
-- **p5.js & Processing** – For creative coding and generative art.  
-- **Arduino** – For connecting hardware with interactive systems.  
-- **Figma & Procreate** – For UI/UX design and digital illustration.  
+Another major shift in my thinking has been recognizing the divide between making and analyzing in digital spaces. In her article *Why I Am Not a Maker*, Debbie Chachra critiques the cultural tendency to value creation—coding, designing, building—over work that involves care, maintenance, and analysis (Chachra, 2015). She argues that this bias undervalues the labor of educators, researchers, and others who contribute to knowledge in non-material ways. This perspective resonated deeply with me, especially in the context of digital literacy. While I spend much of my time working with programming, UI/UX design, and digital research, Chachra’s argument helped me recognize that engaging critically with technology—asking the right questions, evaluating the ethical implications, and understanding systemic biases—is just as crucial as the act of creating itself.
 
-Collaboration is just as essential as creation. While some students rely on Slack and Trello, I mostly use:  
+This perspective has also changed how I view my own engagement with digital tools. I used to feel that to be truly digitally literate, I needed to master programming or data analysis. While these skills are undoubtedly valuable, I now recognize that understanding the structures that shape digital interactions is just as important. Whether I am building an interactive web application with React.js, experimenting with generative art in p5.js, or structuring data in Firebase, I strive to remain critically aware of how these tools frame digital experiences and knowledge production. 
 
-- **GitHub Projects** – For version control, tracking issues, and collaborating on codebases.  
-- **Discord** – For engaging with developer and design communities.  
-- **Notion** – For structuring project ideas, documentation, and brainstorming.  
+In practical terms, this means I now approach digital tools with a more questioning mindset. For instance, when using AI-generated summaries or search algorithms, I try to think about what decisions went into the system’s design. Who decided what information to prioritize? What perspectives are missing? This level of awareness has also changed how I interact with digital archives and research tools, as I now look more closely at their underlying structures and metadata rather than just focusing on the content they provide.
 
-A big part of my learning has been understanding **how design and accessibility shape user interaction**. Whether it’s improving UI/UX in a web app or optimizing an interactive project, I’m always thinking about **how people experience digital spaces**.  
+Another crucial aspect of digital literacy that I have come to appreciate is the role of collaboration and shared knowledge production. Digital platforms, from GitHub to OpenStreetMap, rely on collective contributions and negotiated standards of accuracy and reliability. The Making and Knowing Project, for example, is a fascinating case study in how digital tools can be used to reconstruct historical knowledge through collaborative annotation and interpretation. This project underscores the fact that digital literacy is not just about individual competency but also about navigating and contributing to larger knowledge communities.
 
-## **Digital Research and Data Management**  
+Beyond structured research and formal projects, I also see digital literacy shaping my everyday interactions and creative processes. Whether designing interactive art in Processing or collaborating on an open-source project, I realize that the way I interact with digital spaces extends beyond technical skills. It involves an ethical dimension—considering who has access to digital tools, whose voices are amplified, and how technology is used to shape narratives. These are questions I increasingly ask myself as I work on projects that combine art, computation, and interactivity.
 
-Digital literacy isn’t just about using tools—it’s about organizing and making sense of information efficiently. Instead of traditional research managers like Zotero, I work with:  
+This understanding also influences the way I design digital experiences. As an interactive media student, I aim to create projects that not only engage users but also prompt critical reflection on the role of technology. For example, in a recent generative art project, I experimented with how randomness and algorithmic biases influence visual composition. The process made me more aware of how even creative coding is shaped by underlying computational structures and limitations. These insights push me to think more critically about the ethical considerations of interactive media, especially in areas like accessibility, inclusivity, and data privacy.
 
-- **MySQL & Firebase** – For managing structured and real-time databases.  
-- **Jupyter Notebooks & Colab** – For prototyping AI models and data analysis.  
-- **APIs & Web Scraping** – For gathering and processing data dynamically.  
+Looking ahead, I want to continue expanding my digital literacy by exploring more hands-on engagement with digital humanities tools while further refining my ability to design and build interactive experiences. I am particularly interested in how AI, real-time graphics, and data visualization can be integrated into creative and educational platforms. At the same time, I want to maintain a critical stance toward the technologies I use, recognizing their limitations and the ways they can shape knowledge in sometimes problematic ways. By integrating both the technical and analytical sides of digital literacy, I hope to become not just a proficient user of digital tools but a more thoughtful and responsible participant in the digital world.
 
-For data visualization and analysis, I rely on:  
-
-- **Python (Matplotlib, Seaborn, Plotly)** – To generate insights from datasets.  
-- **TensorFlow & OpenCV** – To explore AI-driven image recognition and machine learning.  
-- **D3.js** – To create interactive, web-based visualizations.  
-
-These tools help me explore the **intersection of computation, design, and interactivity**, whether in an **AI project, interactive website, or digital art experiment**.  
-
-## **Digital Humanities & Computational Thinking**  
-
-One of the most exciting aspects of digital literacy is how it connects **technology, design, and human expression**. Digital humanities is a space where **coding meets creativity**, whether through **AI-generated art, interactive storytelling, or immersive media**.  
-
-For example:  
-- **Runway ML & Stable Diffusion** – Are transforming how we generate digital art.  
-- **Generative algorithms** in p5.js and Processing – Enable **new forms of creative expression**.  
-- **Narrative AI systems** – Are pushing the boundaries of interactive storytelling and game development.  
-
-This semester, I want to dive deeper into **computational thinking**, as described by Berry and Fagerjord—not just as a technical skill but as a **way of problem-solving across disciplines**. Some of my key focus areas include:  
-
-- How **machine learning** can inform creative workflows.  
-- How **algorithmic approaches** can enhance generative design and storytelling.  
-- How **data and AI** shape digital culture ([AI in Museums](https://www.transcript-publishing.com/978-3-8376-6710-3/ai-in-museums/?number=978-3-8394-6710-7)).  
-
-## **Critical Reflections and Future Growth**  
-
-I feel confident in my ability to **code, design, and analyze data**, but I know there are areas where I can grow. Some questions I’m exploring:  
-
-- **Ethical AI & Bias** – How do we make AI systems **fair, transparent, and responsible**?  
-- **Real-time Graphics & XR** – How can I push interactive media through **AR/VR and real-time rendering**?  
-- **Generative AI & Creativity** – How do we balance **AI-assisted creativity with human expression**?  
-
-## **Conclusion**  
-
-Digital literacy isn’t a static skill—it’s an evolving practice of **learning, experimenting, and reflecting**. As I continue my studies, I want to deepen my understanding of **AI, computational media, and UI/UX design**, while developing a **critical perspective on technology**. The **interdisciplinary nature** of my work in **Computer Science and Interactive Media** provides a space to explore how **technology, creativity, and ethics intersect**—something I hope to refine further this semester.  
-
----
-
-## **Next Steps: Documenting My Changes in GitHub**  
-
-> I documented my work by committing these changes on GitHub, using clear commit messages.  
-
-### **GitHub Commits:**  
-
-I’ll include a **screenshot** of some of my GitHub commit edits:  
-
-![Screenshot of GitHub Commit History](https://github.com/jheel2006/daah/blob/master/assets/images/github_ss.png)  
-📌 Caption: A part of GitHub commit history showing edits._  
-
+In sum, my understanding of digital literacy has evolved from a functional perspective—where it was mostly about knowing how to use digital tools—toward a more critical and engaged perspective. Digital literacy is about questioning, analyzing, and recognizing the social and political dimensions of digital technologies. It involves both technical skills and critical thinking, and it requires an awareness of how digital systems are designed and who they serve. Readings like Drucker’s *Digital Humanities* and Chachra’s *Why I Am Not a Maker* have been instrumental in shaping this understanding, and I look forward to continuing this exploration throughout the course.
