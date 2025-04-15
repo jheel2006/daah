@@ -1,6 +1,6 @@
 ---
 title: "Assignment 2"
-date: 2025-02-08
+date: 2025-04-15
 categories: 
   - Assignment
 tags:
@@ -42,7 +42,7 @@ To manage the vast amount of *unstructured data*, we turned to **Large Language 
 
 The same port was often written in **multiple different ways**. For example, sometimes the ship was said to have gone to *“Weti & Chake-Chake,”* while other times it was *“Chake-Chake & Mkoani.”* On other pages, it might just say *“Weti”* or *“Chake-Chake”* on their own. When we looked all these up, we realized they were actually all **ports located on the same island—Pemba**. And yet, in some entries, the *Gazette* simply said *“Pemba,”* without naming any specific port. This kind of **variation** made it really difficult to **organize the data clearly**, especially when trying to **show it on a map**.
 
-To handle this, we decided to **standardize the way we recorded locations**. We created a **set list of main places**—like *Zanzibar*, *Pemba*, *Mafia*, *Mombasa*, *Tanga*, and *DSalaam* (*short for Dar-es-Salaam*)—and made sure every row in our spreadsheet referred only to one of these **standardized place names**. If there were additional ports mentioned, we listed them in a separate column for reference. This way, the main location data stayed clean and consistent*for geocoding, while the details still remained available.
+To handle this, we decided to **standardize the way we recorded locations**. We created a **set list of main places**—like *Zanzibar*, *Pemba*, *Mafia*, *Mombasa*, *Tanga*, and *DSalaam* (*short for Dar-es-Salaam*)—and made sure every row in our spreadsheet referred only to one of these **standardized place names**. If there were additional ports mentioned, we listed them in a separate column for reference. This way, the main location data stayed clean and consistent for geocoding, while the details still remained available.
 
 <!-- checkpoint -->
 [Spreadsheet of extracted data](https://docs.google.com/spreadsheets/d/1_KpHkwCcPSc5CbmQ6yhHRqYUtsHw5nFvHLpgYzPD9vI/edit?usp=sharing)
@@ -74,8 +74,8 @@ We used **kepler.gl** for the mapping phase of our project, since we were workin
 We began by creating a **heatmap** to visualize how frequently different locations were visited. For this, we used the "**count**" column from our spreadsheet. Technically, each visit is recorded twice—once for **arrival** and once for **departure**—so the count is effectively doubled. However, since we were primarily interested in a **relative comparison** between locations (rather than exact totals), this scaling was acceptable. We exported the spreadsheet as a **CSV** file, uploaded it to **kepler.gl**, and it automatically generated a map showing both the point markers and the **heatmap** based on visit frequency. We had already added the **latitude** and **longitude** data for each place by looking it up online and incorporating it into the spreadsheet. 
 
 <!-- checkpoint -->
-[Checkpoint: Link to kepler image without routes](#)
-
+![Kepler image without routes](/daah/assets/images/kepler_heatmap.jpeg)
+*Figure 1: Initial Kepler map with heatmaps that indicate how often each location was visited*
 
 The second goal was to map out the **routes** that the ship followed between locations. While working on the spreadsheet, we noticed something interesting: there were only a few **unique routes**, and these were repeated multiple times throughout the logs. We documented these routes in a separate "**routes**" spreadsheet, and then asked **ChatGPT** to help us generate a **GeoJSON** file representing all of these paths. We provided it with both the **route data** and the corresponding **latitude/longitude** information, and it generated a **Python script** that could produce the **GeoJSON**. Once we had the **GeoJSON** file, we layered it on top of our existing **Kepler.gl** map. The result was a network of hexagon-like connections showing all the circuits the ship regularly traveled. It worked perfectly, giving us a clear visual of the ship's **movement patterns**.
 
@@ -83,7 +83,14 @@ The second goal was to map out the **routes** that the ship followed between loc
 [Routes Spreadsheet](https://docs.google.com/spreadsheets/d/1esyZCmksQYqd28VjMpknDYfM54VCbPgON8gKADXUJ2E/edit?usp=sharing)
 
 <!-- checkpoint -->
-[Checkpoint: Link to final kepler image ](#)
+![Final Kepler image](/daah/assets/images/kepler_all2.jpeg) 
+
+<!-- checkpoint -->
+![Final Kepler image](/daah/assets/images/kepler_all.jpeg) 
+*Figures 2 and 3: Final Kepler maps (from different angles) showing ship routes and visit frequency heat maps*
+
+<!-- checkpoint -->
+Use this file to view the map directly on Kepler: [Kepler GeoJSON file](/daah/assets/files/HHS_Cupid_kepler.json)
 
 ## Conclusion
 
