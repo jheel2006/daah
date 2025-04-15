@@ -100,4 +100,6 @@ In the end, this project helped us see how history can come to life when you wor
 
 ## References:
 
+- *Zanzibar Gazette*. (1919–1920). Government Printer, Zanzibar.
+
 - Klein, L., Martin, M., Brock, A., Antoniak, M., Walsh, M., Johnson, J. M., Tilton, L., & Mimno, D. (2024). *Provocations from the Humanities for Generative AI Research*. Retrieved from [arXiv](https://arxiv.org/abs/2502.19190).
