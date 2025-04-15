@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "Zanzibar \u2192 Mafia \u2192 DSalaam \u2192 Zanzibar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.19793,
+            -6.16394
+          ],
+          [
+            39.7833302,
+            -7.8499966
+          ],
+          [
+            39.178326,
+            -6.776012
+          ],
+          [
+            39.19793,
+            -6.16394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "Zanzibar \u2192 Pemba \u2192 Mombasa \u2192 Tanga \u2192 Pemba \u2192 Zanzibar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.19793,
+            -6.16394
+          ],
+          [
+            40.517799,
+            -12.973203
+          ],
+          [
+            39.658871,
+            -4.04374
+          ],
+          [
+            39.0999996,
+            -5.0666664
+          ],
+          [
+            40.517799,
+            -12.973203
+          ],
+          [
+            39.19793,
+            -6.16394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "Zanzibar \u2192 Pemba \u2192 Zanzibar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.19793,
+            -6.16394
+          ],
+          [
+            40.517799,
+            -12.973203
+          ],
+          [
+            39.19793,
+            -6.16394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "Zanzibar \u2192 DSalaam \u2192 Zanzibar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.19793,
+            -6.16394
+          ],
+          [
+            39.178326,
+            -6.776012
+          ],
+          [
+            39.19793,
+            -6.16394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "Zanzibar \u2192 DSalaam \u2192 Mafia \u2192 Zanzibar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.19793,
+            -6.16394
+          ],
+          [
+            39.178326,
+            -6.776012
+          ],
+          [
+            39.7833302,
+            -7.8499966
+          ],
+          [
+            39.19793,
+            -6.16394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "Zanzibar \u2192 Pemba \u2192 Mombasa \u2192 Zanzibar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.19793,
+            -6.16394
+          ],
+          [
+            40.517799,
+            -12.973203
+          ],
+          [
+            39.658871,
+            -4.04374
+          ],
+          [
+            39.19793,
+            -6.16394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "Zanzibar \u2192 Pemba \u2192 Mombasa \u2192 DSalaam \u2192 Zanzibar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.19793,
+            -6.16394
+          ],
+          [
+            40.517799,
+            -12.973203
+          ],
+          [
+            39.658871,
+            -4.04374
+          ],
+          [
+            39.178326,
+            -6.776012
+          ],
+          [
+            39.19793,
+            -6.16394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route": "Zanzibar \u2192 Mafia \u2192 DSalaam \u2192 Mafia \u2192 Zanzibar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.19793,
+            -6.16394
+          ],
+          [
+            39.7833302,
+            -7.8499966
+          ],
+          [
+            39.178326,
+            -6.776012
+          ],
+          [
+            39.7833302,
+            -7.8499966
+          ],
+          [
+            39.19793,
+            -6.16394
+          ]
+        ]
+      }
+    }
+  ]
+}
