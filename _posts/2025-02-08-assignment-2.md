@@ -10,7 +10,7 @@ tags:
 
 # Tracking the HHS Cupid: A Spatial History Project
 
-When we began this assignment, we were drawn to the idea of tracking the movements of a single ship—*HHS Cupid*—across the waters surrounding Zanzibar between **April 1919** and **January 1920**. In the end, the project ended up being about more than just plotting ports on a map; it became a deep dive into the messy realities of historical data, the limits of technology, and the ways spatial thinking can help us make sense of the past.
+When we began this assignment, we were drawn to the idea of tracking the movements of a single ship—*HHS Cupid*—across the waters surrounding Zanzibar between **April 1919** and **January 1920**. In the end, the project ended up being about more than just plotting ports on a map; it became a deep dive into the messy realities of historical data, the limits of technology, and the ways spatial thinking can help us make sense of the past. In line with the provocations posed by Klein et al., this reminded us that while models or maps can generate outputs, it’s human interpretation that assigns meaning, especially when working with historical and cultural data. Their argument—that tools like generative models or mapping tools lack context unless informed by humanistic inquiry—matched our experience of turning old records into a story told through space.
 
 
 ## Why We Chose the HHS Cupid
@@ -45,7 +45,7 @@ The same port was often written in **multiple different ways**. For example, som
 To handle this, we decided to **standardize the way we recorded locations**. We created a **set list of main places**—like *Zanzibar*, *Pemba*, *Mafia*, *Mombasa*, *Tanga*, and *DSalaam* (*short for Dar-es-Salaam*)—and made sure every row in our spreadsheet referred only to one of these **standardized place names**. If there were additional ports mentioned, we listed them in a separate column for reference. This way, the main location data stayed clean and consistent*for geocoding, while the details still remained available.
 
 <!-- checkpoint -->
-[Checkpoint: Link to google sheet of extracted data](#)
+[Google Sheet of extracted data](#)
 
 We compiled all these standard place names into a list in **Sheet 2 of our Google Sheet**, where we kept track of every **city or town** that appeared and all of the smaller ports were grouped under the main places they belonged to. This was really important, especially when dealing with names that sounded almost the same. For instance, *Kilindini* (a port in *Mombasa*) and *Kilindoni* (a port in *Mafia*) are just one letter apart, but they refer to *totally different places*. In such situations, it is easy for even a *human* to get confused, let alone an *AI tool*. This kind of **inconsistency** made it extremely difficult for any **LLM** to understand what was going on without **very specific training**.
 
@@ -87,3 +87,6 @@ The second goal was to map out the **routes** that the ship followed between loc
 
 In the end, this project helped us see how history can come to life when you work with data in a **hands-on** way. What started as a list of **ship movements** became a much deeper exploration of **place**, **time**, and **meaning**. By organizing, cleaning, and mapping the data, we were able to tell a **visual story** of HHS Cupid’s journey and understand the patterns behind it. We faced challenges, made small discoveries, and learned how tools like **ChatGPT** and **kepler.gl** can support historical research. Most importantly, we saw how working with **space**—not just time—can help us connect with the past in a more engaging and meaningful way.
 
+## References:
+
+- Klein, L., Martin, M., Brock, A., Antoniak, M., Walsh, M., Johnson, J. M., Tilton, L., & Mimno, D. (2024). *Provocations from the Humanities for Generative AI Research*. Retrieved from [arXiv](https://arxiv.org/abs/2502.19190).
