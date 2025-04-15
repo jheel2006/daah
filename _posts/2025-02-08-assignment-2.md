@@ -8,7 +8,10 @@ tags:
   - 
 ---
 
-# Tracking the HHS Cupid: A Spatial History Project
+# Tracking the HHS Cupid
+
+<!-- checkpoint -->
+![Final Kepler image](/daah/assets/images/kepler_all.jpeg) 
 
 When we began this assignment, we were drawn to the idea of tracking the movements of a single ship—*HHS Cupid*—across the waters surrounding Zanzibar between **April 1919** and **January 1920**. In the end, the project ended up being about more than just plotting ports on a map; it became a deep dive into the messy realities of historical data, the limits of technology, and the ways spatial thinking can help us make sense of the past. In line with the provocations posed by Klein et al., this reminded us that while models or maps can generate outputs, it’s human interpretation that assigns meaning, especially when working with historical and cultural data. Their argument—that tools like generative models or mapping tools lack context unless informed by humanistic inquiry—matched our experience of turning old records into a story told through space.
 
