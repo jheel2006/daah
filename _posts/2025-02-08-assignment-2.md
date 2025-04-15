@@ -26,7 +26,7 @@ From the beginning, *geocoding* was at the heart of how we approached this work.
 The idea was to eventually feed our structured data into **kepler.gl**, an *open-source mapping tool* that would let us see the ship's routes dynamically. What started as lines in a ledger would then transform into lines on a map. That transformation, however, took a lot more effort than we expected.
 
 <!-- checkpoint -->
-[Checkpoint: Link to canva pdf](#)
+[PDF with screenshotted data from the Zanzibar Gazette](/daah/assets/files/pdf1.pdf)
 
 ## From Chaos to Structure
 
