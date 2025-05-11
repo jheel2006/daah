@@ -3,7 +3,7 @@ permalink: /dln/
 title: "Digital Literacy Narrative"
 ---
 
-# Rethinking Digital Literacy: How My Understanding Evolved
+## Rethinking Digital Literacy: How My Understanding Evolved
 
 As a 19-year-old student majoring in Computer Science and Interactive Media, I’ve always known that digital literacy plays a big role in my life. I spend most of my day online—coding, designing, researching, or simply communicating. But if you had asked me at the start of the semester what “digital literacy” meant, I probably would’ve said something like “being good at using technology” or “knowing how to search things up online.” I now realize that’s only a small part of the story.
 
