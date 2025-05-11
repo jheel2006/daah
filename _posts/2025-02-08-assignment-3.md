@@ -12,6 +12,8 @@ tags:
 
 ## Image Dataset
 
+[**Click here to view the image dataset on Google Drive**](https://drive.google.com/drive/folders/1mQ4RD0AYxqcl08ynx9fue_wjwER5Irhg?usp=sharing)
+
 For this assignment, we chose to work with a dataset of teenage and young adult book covers sourced from Kaggle. I’ve always found book cover design intriguing—especially in the YA genre, where visual cues like typography, color palettes, and illustration styles often hint at the book’s mood, genre, and target audience. The covers tend to blend photography, digital painting, and bold design choices, making them a rich site for visual analysis. We selected 111 book covers that clearly fit the young adult category. This dataset felt like a strong match for the goals of the project because YA covers often follow recognizable patterns, while still allowing space for variety and nuance.
 
 ## Clustering and Visual Exploration in Orange Data Mining
@@ -127,3 +129,14 @@ Some of the captions generated were completely off, which made the results both 
 
 ![Screenshot 2025-05-11 180820](https://github.com/user-attachments/assets/c24de88d-9702-457e-967a-d3dbef4afc41)
 
+## Conclusion
+
+Working with this dataset of young adult book covers gave us a new appreciation for how machine learning models interpret visual content. Even though many of the tools weren’t trained specifically on book covers, they still found patterns—especially when it came to color, composition, and contrast. Through tools like Orange Data Mining and DV Explorer, we could see how models clustered, categorized, and captioned the images based on features we may not have noticed ourselves. At the same time, the mistakes the models made reminded us that visual understanding is complex, and often deeply tied to cultural knowledge that these systems don’t have. The idea of *distant viewing*, where we step back and look at broad patterns across many images, helped us think about this project not just in terms of what we saw, but in terms of how the models see. It also made us more aware of how we form our own categories, and how different that process is from what algorithms do.
+
+## References
+
+- Arnold, T., & Tilton, L. (2023). *Distant Viewing: Computational Exploration of Digital Images*. The MIT Press. https://doi.org/10.7551/mitpress/14046.001.0001  
+- Impett, L., & Offert, F. (2024). "Machine Seeing: How Neural Networks View Visual Culture." (In-class reading)  
+- Kaggle. (n.d.). *Book Covers Dataset*. https://www.kaggle.com/datasets/lukaanicin/book-covers-dataset  
+- Orange Data Mining. https://orangedatamining.com  
+- DV Explorer (Zero-Shot and Captioning Tools). [Tool provided in class]
