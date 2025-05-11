@@ -121,7 +121,7 @@ Some of the captions generated were completely off, which made the results both 
 
 ![Screenshot 2025-05-11 170531](https://github.com/user-attachments/assets/b07820dc-1e50-479d-86da-83243bda62cb)
 
-![Screenshot 2025-05-11 180219](https://github.com/user-attachments/assets/5a56609c-ba46-4465-be21-9e0f5d9fcc7e)
+![Screenshot 2025-05-11 180124](https://github.com/user-attachments/assets/cbe8c351-dbb3-42e8-8ddf-74cd9c2ac2fa)
 
 ![Screenshot 2025-05-11 180841](https://github.com/user-attachments/assets/3b1bdc17-f6e1-405e-8c83-8ff0af7207f8)
 
