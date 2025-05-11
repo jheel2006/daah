@@ -78,9 +78,9 @@ In one of my recent projects, I created a generative art piece using randomness 
 
 ### Moving Forward: A More Thoughtful Digital Practice
 
-Looking ahead, I want to continue combining my technical skills with deeper critical thinking. I’m excited to keep working with tools like p5.js, AI models, and interactive platforms. But I also want to keep asking hard questions: Who is this for? What voices are missing? What power dynamics are at play?
+Looking ahead, I want to continue combining my technical skills with deeper critical thinking. I’m excited to keep working with creative tools, AI models, and interactive platforms. But I also want to keep asking hard questions: Who is this for? What voices are missing? What power dynamics are at play?
 
-I hope to explore more in the digital humanities space, using tools like Voyant or Omeka to analyze or present knowledge in more thoughtful ways. I want to stay open to learning from both tech and humanities—because both are essential for building a more ethical digital world.
+I hope to explore more in the digital humanities space, using tools like Voyant to analyze or present knowledge in more thoughtful ways. I want to stay open to learning from both tech and humanities—because both are essential for building a more ethical digital world.
 
 ---
 
@@ -99,4 +99,4 @@ I’m walking away from this course not just as someone who *uses* technology, b
 - Drucker, Johanna. *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Routledge, 2021. [Link](https://www.taylorfrancis.com/chapters/mono/10.4324/9781003106531-1/digital-humanities-overview-johanna-drucker?context=ubx&refId=d32fa15e-299e-4b0e-a0b7-496606198488)
 - Chachra, Debbie. *Why I Am Not a Maker*. The Atlantic, 2015. [Link](https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/)
 - Berry, D. M., & Fagerjord, A. (2017). *On the Way to Computational Thinking*. In *Digital Humanities: Knowledge and Critique in a Digital Age* (pp. 40–59).  
-- Li, F. (n.d.). *How We Teach Computers to Understand Pictures*. TED Talk. [Link](https://www.ted.com/talks/fei_fei_li_how_we_teach_computers_to_understand_pictures)
+- Li, F. (n.d.). *How We Teach Computers to Understand Pictures*. TED Talk. [Link](https://www.youtube.com/watch?v=40riCqvRoMs)
