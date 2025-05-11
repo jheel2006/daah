@@ -64,7 +64,9 @@ For the multimodal part of the assignment, we explored the **Zero Shot** tool in
 
 ![DV Explorer Zero Shot model](https://github.com/user-attachments/assets/6a82a70e-ebf4-4f61-bf6a-5e825e5e8006)
 
-![DV Explorer Zero Shot model (2)](https://github.com/user-attachments/assets/d72e2b9e-0900-422b-a2fa-5240233b1be4) ![DV Explorer Zero Shot model (3)](https://github.com/user-attachments/assets/02fca8c1-c608-4ebd-b4b5-b7890f046e78)
+![DV Explorer Zero Shot model (2)](https://github.com/user-attachments/assets/d72e2b9e-0900-422b-a2fa-5240233b1be4) 
+
+![DV Explorer Zero Shot model (3)](https://github.com/user-attachments/assets/02fca8c1-c608-4ebd-b4b5-b7890f046e78)
 
 ![DV Explorer Zero Shot model (4)](https://github.com/user-attachments/assets/af793138-3de7-4bf0-af68-338ed51f8ba0)
 
