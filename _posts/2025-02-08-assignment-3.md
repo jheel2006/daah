@@ -77,3 +77,19 @@ We also tested the **Image Captioning** tool in DV Explorer, which tries to gene
 
 It also seemed to recognize things like fire hydrants or cats even if there was just fire or dark shapes. In general, the tool did better when the cover included real people or photo-like elements, but struggled a lot with illustrated or abstract designs. This made us think that the model is probably trained more on real-world photos than on stylized or drawn content like book covers.
 
+**Examples of (decently) accurate captions: **
+
+![Screenshot 2025-05-11 180042](https://github.com/user-attachments/assets/7256c445-94fe-483c-b562-1ceaa5d16dac)
+
+![Screenshot 2025-05-11 180104](https://github.com/user-attachments/assets/731679b4-6b94-42a7-a961-b6e810c273ce)
+
+![Screenshot 2025-05-11 180204](https://github.com/user-attachments/assets/e94f9a2d-c2c9-48f0-ae06-cbc7f168edd4)
+
+![Screenshot 2025-05-11 180219](https://github.com/user-attachments/assets/1e30326e-25cc-4afe-95ad-62c8064ed1cd)
+
+![Screenshot 2025-05-11 180256](https://github.com/user-attachments/assets/33c698cc-c367-457f-a3c7-48ef868eaed9)
+
+
+
+
+
