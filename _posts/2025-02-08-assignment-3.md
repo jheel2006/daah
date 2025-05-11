@@ -20,8 +20,7 @@ For this assignment, we chose to work with a dataset of teenage and young adult 
 Once the images were prepared, we loaded them into Orange Data Mining using the provided workflow. The first model we used for clustering was InceptionV3, which offered a fairly balanced distribution of the covers across the image plot. 
 
 <!-- CHECKPOINT: Insert Inception Image -->
-![Image Grid - Inception Model](https://github.com/user-attachments/assets/d8bbcb6b-db90-4310-bb04-2e4b42e75b5f)
-
+![Image Grid - Inception Model](https://github.com/user-attachments/assets/da1f0b3a-5851-4ef2-97e3-ffc9bca8b79d)
 
 However, when we tried using OpenFace, the model didn’t detect any of the images. We also faced technical issues with the VGG model, as it wouldn’t download correctly on our system. To continue exploring, we turned to SqueezeNet—an offline model—which gave decent results and allowed us to compare how different models "see" the same dataset.
 
@@ -38,7 +37,7 @@ One interesting experiment involved a model called Painter, which is trained on 
 Another unexpected but fascinating model was Deeploc, which is actually trained on microorganism imagery. Despite its unrelated training data, it produced one of the most visually coherent image plots—especially in terms of brightness and contrast. Covers arranged themselves in a smooth gradient from dark to light, revealing how even a model trained outside the realm of cultural imagery can pick up on aesthetic patterns.
 
 <!-- CHECKPOINT: Insert DeepLoc Image -->
-![Image Grid - Deeploc](https://github.com/user-attachments/assets/818769c5-b014-4e0e-b083-1e92749d4b83)
+![Image Grid - Deeploc](https://github.com/user-attachments/assets/d6ec7526-c1ea-4620-9b2b-c67caa82c099)
 
 
 What struck me most was how these models, although not trained specifically on book covers, still revealed meaningful groupings. This reinforces the idea from Impett & Offert that in reading a corpus through a neural network, we are also reading the network itself. Each model brought its own visual vocabulary to the task, and seeing which features it emphasized—color, texture, brightness—made me more aware of the visual language embedded in YA cover design. The differences between the clusters, and the moments when a cover seemed “misplaced,” were often where the most insight came from. As Arnold and Tilton argue in *Distant Viewing*, computer vision models only capture surface-level visual features, and never the full meaning of an image. Their emphasis on analyzing patterns across large image sets—rather than relying on individual tags or annotations—helped us interpret the groupings in a more thoughtful way. For instance, seeing how the models clustered by brightness or color reminded us that we’re not just seeing the images—we’re also seeing what the model is capable of recognizing.
