@@ -7,7 +7,6 @@ tags:
   - 
   - 
 ---
-
 # Analyzing Teenage/Young Adult Book Covers
 
 ## Image Dataset
@@ -47,7 +46,15 @@ What struck me most was how these models, although not trained specifically on b
 
 ## Hierarchical Clustering
 
+![Heirachial Clustering](https://github.com/user-attachments/assets/4f4dde8e-cc5f-4fca-b2da-bbb47496d7e4)
+
+
 Most of the covers in our dataset were scattered across the hierarchical clustering tree, often grouped in pairs or small clusters. But there was one cluster that stood out because it had a noticeably larger group of books grouped tightly together. Naturally, we were curious to see what these books had in common, so we gathered the covers from that section to look more closely. It quickly became clear why the model had grouped them—they shared a lot of strong visual similarities. Most of these covers featured a cartoon-like illustration style, with bold outlines and minimal detail, like *Diary of a Wimpy Kid*, *The World’s Worst Children*, and *Brain Games for Clever Kids*. They also used bright, flat colors like red, yellow, and blue, which likely caught the model’s attention since dominant color areas often guide clustering. Many had a similar composition as well—large centered text, a character or object in the middle, and not much else going on in the background. Even though the model doesn’t actually "know" what a children’s book is, the visual tone across these covers was clearly similar enough for it to group them. This cluster was a good reminder that models often pick up on surface-level design traits—like layout, color, and illustration style—more than content or meaning.
+
+![HC - Isolating Specific Cluster](https://github.com/user-attachments/assets/92e9fc72-503b-4331-aa3f-ee561170bb4f)
+
+![Hierarchical Clustering Books](https://github.com/user-attachments/assets/51c6db1f-fb10-4699-ba6e-14e0c2a53101)
+
 
 ## Analyzing Confusion Matrices
 
