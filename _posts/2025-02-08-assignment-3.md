@@ -19,18 +19,26 @@ For this assignment, we chose to work with a dataset of teenage and young adult 
 Once the images were prepared, we loaded them into Orange Data Mining using the provided workflow. The first model we used for clustering was InceptionV3, which offered a fairly balanced distribution of the covers across the image plot. 
 
 <!-- CHECKPOINT: Insert Inception Image -->
+![Image Grid - Inception Model](https://github.com/user-attachments/assets/d8bbcb6b-db90-4310-bb04-2e4b42e75b5f)
+
 
 However, when we tried using OpenFace, the model didn’t detect any of the images. We also faced technical issues with the VGG model, as it wouldn’t download correctly on our system. To continue exploring, we turned to SqueezeNet—an offline model—which gave decent results and allowed us to compare how different models "see" the same dataset.
 
 <!-- CHECKPOINT: Insert Squeezenet Image -->
+![Image Grid - SqueezeNet](https://github.com/user-attachments/assets/202e05f6-5d0e-4f1e-8b2a-d6e5e0220b45)
+
 
 One interesting experiment involved a model called Painter, which is trained on paintings. Even though it is not specifically designed for book covers, the visual similarities between painted compositions and some cover art made this a surprisingly effective choice. The Painter model tended to cluster covers by dominant color tones, and in several cases, even grouped images featuring animals or similar stylistic features. This opened up a new way of thinking about how artistic structure might influence the design of YA literature.
 
 <!-- CHECKPOINT: Insert Painter Image -->
+![Image Grid - Painter](https://github.com/user-attachments/assets/dae94cb5-e75b-4874-a8ae-aa2f8f27bcb5)
+
 
 Another unexpected but fascinating model was Deeploc, which is actually trained on microorganism imagery. Despite its unrelated training data, it produced one of the most visually coherent image plots—especially in terms of brightness and contrast. Covers arranged themselves in a smooth gradient from dark to light, revealing how even a model trained outside the realm of cultural imagery can pick up on aesthetic patterns.
 
 <!-- CHECKPOINT: Insert DeepLoc Image -->
+![Image Grid - Deeploc](https://github.com/user-attachments/assets/818769c5-b014-4e0e-b083-1e92749d4b83)
+
 
 What struck me most was how these models, although not trained specifically on book covers, still revealed meaningful groupings. This reinforces the idea from Impett & Offert that in reading a corpus through a neural network, we are also reading the network itself. Each model brought its own visual vocabulary to the task, and seeing which features it emphasized—color, texture, brightness—made me more aware of the visual language embedded in YA cover design. The differences between the clusters, and the moments when a cover seemed “misplaced,” were often where the most insight came from. As Arnold and Tilton argue in *Distant Viewing*, computer vision models only capture surface-level visual features, and never the full meaning of an image. Their emphasis on analyzing patterns across large image sets—rather than relying on individual tags or annotations—helped us interpret the groupings in a more thoughtful way. For instance, seeing how the models clustered by brightness or color reminded us that we’re not just seeing the images—we’re also seeing what the model is capable of recognizing.
 
@@ -44,16 +52,22 @@ For the classification portion of the assignment, we created two different categ
 Using the Inception model, the results were fairly strong. The confusion matrix showed that the model had a particularly high accuracy for the "Dark" and "Pastel" categories, with 21 and 33 correct classifications out of 28 and 40 respectively. Most of the confusion occurred between "Bright" and "Pastel" covers—ten pastel-toned covers were predicted as bright, and seven bright ones were misread as pastel. This made sense after looking more closely—many pastel covers include bold text or colorful elements that might resemble "bright" features, and vice versa. The dark-toned covers, on the other hand, were much more consistent and distinct, which probably made them easier for the model to identify. Seeing which images were misclassified made us rethink how cleanly separable these categories really are—even to a human eye.
 
 <!-- CHECKPOINT: Insert Inception Confusion Matrix Image -->
+![Confusion Matrix - Inception](https://github.com/user-attachments/assets/362d2db3-55aa-472b-b4f8-272d8f532dfc)
+
 
 We also ran the same classification using the Painter model, and the results shifted in interesting ways. This time, the confusion between “Bright” and “Dark” became more noticeable. For example, seven bright covers were misclassified as dark, and six dark ones were predicted as bright. Unlike Inception, which seemed to get tripped up more between soft tones and bolder ones, the Painter algorithm appeared to weigh composition and contrast more heavily—possibly due to its training on art. That could explain why the lines between high-contrast bright covers and shadow-heavy dark ones became less clear. This reinforces what *Distant Viewing* by Arnold & Tilton emphasizes: our human ways of grouping things often don’t align with how machines calculate similarity. These experiments don’t just reveal what the models can or can’t do—they push us to think more carefully about the categories we take for granted and how those are shaped by cultural context rather than just visual data.
 
 <!-- CHECKPOINT: Insert Painter Confusion Matrix Image -->
+![Confusion Matrix - Painters Model](https://github.com/user-attachments/assets/186ba8e8-a7f3-483d-b6e7-4de0df9c4385)
+
 
 
 For the second classification system, we organized the covers based on whether or not a **character** appeared on them. This gave us two roughly equal groups: 56 covers with a visible character and 55 without. We ran the classification using both the Inception and Painter models. Between the two, the Inception model clearly performed better, correctly classifying 83 out of 111 images. The confusion matrix shows a relatively balanced prediction, with fewer mix-ups between the “characters” and “no-characters” categories. In contrast, the Painter model struggled more—likely due to its training on artworks, where the presence of figures is often more abstract or stylized. It misclassified 44 images, often confusing minimal silhouettes or decorative elements for characters. While it was possible to expect Painter to do better given its background, the results highlight how a model trained on fine art doesn’t always transfer well to more graphic and commercially styled designs like book covers. This again underscores how much the training context of a model influences its perception of seemingly straightforward features.
 
 <!-- CHECKPOINT: Insert Inception/Painter Confusion Matrix Image -->
+![Confusion Matrix - Inception Model](https://github.com/user-attachments/assets/6f776f2d-d3e4-4e6d-a7fd-d1548f88c67d)
 
+![Confusion Matrix - Painters Model (2)](https://github.com/user-attachments/assets/4d3968c2-be70-4b55-81c3-672f361f468f)
 
 In both sets of categories, we tried moving some images around to test how much that would impact the results. Ultimately, the original groupings provided the most meaningful insights, and those are the ones shown in the screenshots we’ve included. The confusion matrices, particularly for the color-based categories, offered a useful window into how the model “sees” the images—and how that vision differs from mine.
 
