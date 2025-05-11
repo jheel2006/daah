@@ -135,8 +135,6 @@ Working with this dataset of young adult book covers gave us a new appreciation 
 
 ## References
 
+- Kaggle. (n.d.). *Book Covers Dataset*. https://www.kaggle.com/datasets/lukaanicin/book-covers-dataset 
 - Arnold, T., & Tilton, L. (2023). *Distant Viewing: Computational Exploration of Digital Images*. The MIT Press. https://doi.org/10.7551/mitpress/14046.001.0001  
-- Impett, L., & Offert, F. (2024). "Machine Seeing: How Neural Networks View Visual Culture." (In-class reading)  
-- Kaggle. (n.d.). *Book Covers Dataset*. https://www.kaggle.com/datasets/lukaanicin/book-covers-dataset  
-- Orange Data Mining. https://orangedatamining.com  
-- DV Explorer (Zero-Shot and Captioning Tools). [Tool provided in class]
+- Impett, L., & Offert, F. (2024). "There Is a Digital Art History" https://www.tandfonline.com/doi/full/10.1080/01973762.2024.2362466#d1e113  
