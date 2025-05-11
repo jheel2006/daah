@@ -67,7 +67,13 @@ For the multimodal part of the assignment, we explored the **Zero Shot** tool in
 
 We also tested the **Image Captioning** tool in DV Explorer, which tries to generate short captions for each image. The results were sometimes accurate but often very off. For example, the cover of *Wonder* was described as “a cartoon of a bear with a picture of a man on it,” and *Six of Crows* was labeled “a painting of a bear with a sign on it.” It was interesting (and kind of funny) how often the model mentioned bears, even when there weren’t any. 
 
+![Screenshot 2025-05-11 170512](https://github.com/user-attachments/assets/7eb74be9-6413-47fd-b56b-db862f9611b0)
 
+![Screenshot 2025-05-11 174827](https://github.com/user-attachments/assets/e7e41a09-59af-4c3a-b861-ec853bd1d552)
+
+![Screenshot 2025-05-11 174657](https://github.com/user-attachments/assets/0159dfae-cb76-4ca9-a729-587554bf451a)
+
+![Screenshot 2025-05-11 174512](https://github.com/user-attachments/assets/1337a528-3a17-474a-b49f-e22a9b5d558a)
 
 It also seemed to recognize things like fire hydrants or cats even if there was just fire or dark shapes. In general, the tool did better when the cover included real people or photo-like elements, but struggled a lot with illustrated or abstract designs. This made us think that the model is probably trained more on real-world photos than on stylized or drawn content like book covers.
 
