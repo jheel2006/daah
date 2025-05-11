@@ -58,10 +58,11 @@ In both sets of categories, we tried moving some images around to test how much 
 
 Reflecting on these outcomes through the lens of *Distant Viewing* by Arnold & Tilton, I started to see how much my initial categories were shaped by subjective, aesthetic choices. What looks like a "pastel" to me is, to the model, just a set of pixel values. The algorithm forces me to step outside my own logic and confront the limits of visual categorization when it's translated into machine terms. These mismatches don’t just reveal where the model struggles—they also ask us to reconsider how reliable our own classification systems really are.
 
-### DV Explorer: Zero Shot
+## DV Explorer: Zero Shot
 
 For the multimodal part of the assignment, we explored the **Zero Shot** tool in DV Explorer. This tool allows you to upload your entire image set and then search with free-form text prompts. It ranks the images based on how well they match the description, using similarity scores. We tested several prompts such as *"mystery magic adventure," "crime thriller," "happy kids books," "romantic books," "books where random creatures exist," "birds," "dark covers,"* and *"pastel covers."* The results were surprisingly effective—even when the similarity scores were close to zero, many of the images returned still felt like accurate matches. For example, the prompt *"mystery magic adventure"* brought up Harry Potter and Percy Jackson covers, while *"romantic books"* highlighted titles like *To All the Boys I've Loved Before* and *The Fault in our Stars*. The model seemed to pick up on visual patterns, color schemes, and even font styles that matched the keywords we typed in. It was interesting to see how well the tool understood abstract ideas like “romance” or “magic” without any prior training on our specific dataset. This exercise showed how the words we use can really change the way we look at and understand images.
 
 
-### DV Explorer: Image Captioning
+## DV Explorer: Image Captioning
+
 
