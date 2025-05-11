@@ -77,7 +77,10 @@ We also tested the **Image Captioning** tool in DV Explorer, which tries to gene
 
 It also seemed to recognize things like fire hydrants or cats even if there was just fire or dark shapes. In general, the tool did better when the cover included real people or photo-like elements, but struggled a lot with illustrated or abstract designs. This made us think that the model is probably trained more on real-world photos than on stylized or drawn content like book covers.
 
-**Examples of (decently) accurate captions: **
+### Examples of (decently) accurate captions:
+
+A few of the generated captions were surprisingly accurate or at least close enough to make sense. For example, the caption for *To All the Boys I’ve Loved Before* was “a woman sitting on a bed with a book,” which is a good description of the cover. *P.S. I Still Love You* was labeled “a woman is standing in front of a sign,” which also somewhat fits the layout and pose. The cover of *All the Bright Places* was described as “a collage of a couple of different colored stickers on a white paper”—not perfect, but still a fair guess based on the design. Even *The Assassin’s Blade* being described as “a man in a black suit with a pirate theme” feels like a reasonable interpretation, even though the character is a woman. These moments showed that the model can sometimes pick up on the overall setting, layout, or vibe of the image, especially when the design is straightforward or photo-based.
+
 
 ![Screenshot 2025-05-11 180042](https://github.com/user-attachments/assets/7256c445-94fe-483c-b562-1ceaa5d16dac)
 
@@ -89,7 +92,16 @@ It also seemed to recognize things like fire hydrants or cats even if there was 
 
 ![Screenshot 2025-05-11 180256](https://github.com/user-attachments/assets/33c698cc-c367-457f-a3c7-48ef868eaed9)
 
+### Examples of completely inaccurate (but interesting) captions:
+
+Some of the captions generated were completely off, which made the results both funny and surprising. For example, the cover of *Harry Potter and the Half-Blood Prince* was described as “a painting of a man with a fire hydrant,” probably because the swirling fire effects were mistaken for something else. *The Fault in Our Stars* was labeled as “a sign for a food stand with a picture of a dog,” which had nothing to do with the actual image or theme. *Paper Towns* was captioned as “a red and white fire hydrant on a table,” even though it’s a red push pin but it also makes sense why the model might mistake it for a fire hydrant. These examples show how the model often defaults to certain repeated objects when it can’t fully make sense of the visual content. This makes it seem like the model is trained mostly on real-world photos, so when it sees stylized or abstract book cover art, it tries to fit those images into categories it already knows.
 
 
+![Screenshot 2025-05-11 170531](https://github.com/user-attachments/assets/b07820dc-1e50-479d-86da-83243bda62cb)
 
+![Screenshot 2025-05-11 180219](https://github.com/user-attachments/assets/5a56609c-ba46-4465-be21-9e0f5d9fcc7e)
+
+![Screenshot 2025-05-11 180841](https://github.com/user-attachments/assets/3b1bdc17-f6e1-405e-8c83-8ff0af7207f8)
+
+![Screenshot 2025-05-11 180820](https://github.com/user-attachments/assets/c24de88d-9702-457e-967a-d3dbef4afc41)
 
