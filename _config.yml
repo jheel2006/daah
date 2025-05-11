@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jheel Thanki"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Computer Science + Interactive Media student at NYUAD :)"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
